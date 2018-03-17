@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="app_name">Project 3 Question Class Demo</string>
+    <string name="title">Quiz Demo</string>
+
+    <string name="answer_button">Submit Answer</string>
+    <string name="true_label">True</string>
+    <string name="false_label">False</string>
+
+    <string name="score_string">Score:</string>
+    <string name="score_string2">out of</string>
+
+    <!-- Questions Begin Here -->
+    <string name="question1">What is the capital of the U.S.?</string>
+    <string name="question1a">Atlanta</string>
+    <string name="question1b">Washington D.C.</string>
+    <string name="question1c">New York</string>
+
+    <string name="question2">Humans hunted dinosaurs to extinction.</string>
+
+    <string name="question3">A penny saved is a penny _________. (Fill in the blank.)</string>
+    <string name="question3a">earned</string>
+
+    <string name="question4">Soccer is to ball, as Hockey is to ______.</string>
+    <string name="question4a">puck</string>
+
+    <string name="question5">What country has the largest population?</string>
+    <string name="question5a">Brazil</string>
+    <string name="question5b">India</string>
+    <string name="question5c">China</string>
+    <string name="question5d">Canada</string>
+    <string name="question5e">Malta</string>
+
+    <string name="question6">Harry Potter was played by Daniel Radcliffe.</string>
+</resources>
